@@ -1,5 +1,22 @@
-# sql-data-cleaning
-📝 Description:
-Analyzed and cleaned a dataset of 2000+ global layoff records using SQL. Removed duplicates using ROW_NUMBER(), standardized fields with string functions like TRIM() and REPLACE(), and identified top 10 impacted companies using GROUP BY, HAVING, and DENSE_RANK().
+# Layoffs Data Analysis using SQL
 
-🔧 Tools & Concepts: SQL, Data Cleaning, Window Functions, String Functions, Trend Analysis
+## 📌 Overview
+Analyzed a dataset of 2000+ layoff records using SQL. Cleaned and standardized fields, removed duplicates with `ROW_NUMBER()`, and ranked top 10 most affected companies.
+
+## 🛠️ Tools & Technologies
+- MySQL Workbench
+- SQL Queries (TRIM, REPLACE, GROUP BY, HAVING, DENSE_RANK)
+
+## 🔍 Key Features
+- Cleaned and deduplicated dataset
+- Standardized text using SQL functions
+- Identified patterns and top impacted industries
+
+## 🚀 How to Use
+1. Import CSV file into MySQL
+2. Run SQL queries provided
+3. View cleaned data and ranked output
+
+## 👤 Author
+Junaid Kamate
+
